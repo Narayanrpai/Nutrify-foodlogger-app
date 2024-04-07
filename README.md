@@ -3,21 +3,21 @@ Nutrition tracking Spring Boot web app for tracking nutrients in food
 
 - Create your own goals and see your progress
 
-- ![Home](https://github.com/narayan/foodlogger/blob/master/src/main/resources/static/dailygoals.JPG)
+- ![Home](https://github.com/narayanrpai/foodlogger/blob/master/src/main/resources/static/dailygoals.JPG)
 
 - See what you eat throughout the day
 
-![Home](https://github.com/narayan/foodlogger/blob/master/src/main/resources/static/foodconsumed.JPG)
+![Home](https://github.com/narayanrpai/foodlogger/blob/master/src/main/resources/static/foodconsumed.JPG)
 
 - Easily search Nutritionix's massive database of foods to find what you eat
 
-![Home](https://github.com/narayan/foodlogger/blob/master/src/main/resources/static/searchPage.JPG)
+![Home](https://github.com/narayanrpai/foodlogger/blob/master/src/main/resources/static/searchPage.JPG)
 
-![Home](https://github.com/narayan/foodlogger/blob/master/src/main/resources/static/search.JPG)
+![Home](https://github.com/narayanrpai/foodlogger/blob/master/src/main/resources/static/search.JPG)
 
 - See whats in your food to maintain a healthier lifestyle
 
-- ![Home](https://github.com/narayan/foodlogger/blob/master/src/main/resources/static/values.JPG)
+- ![Home](https://github.com/narayanrpai/foodlogger/blob/master/src/main/resources/static/values.JPG)
 
 ## Prerequisites
 
